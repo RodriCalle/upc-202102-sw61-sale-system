@@ -18,3 +18,8 @@
     api_key: 
  5. Run the next command from IDEs Terminal
     travis encrypt <heroku_apy_key> --add deploy.api_key --pro
+ 6. Check if .travis.yml is complete with api_key
+ 7. Look your travis
+ 
+## Some prerequisites
+ - Have travis CLI installed on your pc
